@@ -34,5 +34,5 @@ describe('EmailService Tests', () => {
 });
 afterAll(() => {
   const rateLimiter = require('../src/utils/rateLimiter');
-  rateLimiter._clear(); // stops setInterval to prevent Jest warning
+  rateLimiter._clear(); 
 });
