@@ -1,0 +1,15 @@
+# Ignore node dependencies
+node_modules/
+
+# Logs
+*.log
+
+# Environment variable files
+.env
+
+# IDE files
+.vscode/
+.DS_Store
+
+# Test and coverage output
+coverage/
