@@ -40,7 +40,7 @@ This project demonstrates how to build a fault-tolerant email sending system usi
 
 1. **Clone the repo**
 ```bash
-git clone https://github.com/YOUR_USERNAME/resilient-email-service.git
+git clone https://github.com/MAHALAXMI-WADDENKERI/resilient-email-service.git
 cd resilient-email-service
 ```
 
